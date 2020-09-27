@@ -1,6 +1,6 @@
 # Seminar
 
-**Time:** Monday
+**Time:** Every Monday 13:00
 
 ## Autumn 2020
 
