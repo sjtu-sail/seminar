@@ -126,7 +126,7 @@
         </tr>
         <tr>
             <td rowspan="3">2020-10-26</td>
-            <td>Key-Value Stores (Log-Structured Merge-Tree)</td>
+            <td rowspan="3">Storage</td>
             <td>Wanqiang Zhang</td>
             <td>
                 <ul>
@@ -136,10 +136,10 @@
             </td>
         </tr>
         <tr>
-            <td rowspan="2">Stream Processing</td>
             <td>Yuchen Cheng</td>
             <td>
                 <ul>
+                    <li><a href="https://doi.org/10.1145/3183713.3196898" rel="nofollow"><strong>FASTER: A Concurrent Key-Value Store with In-Place Updates</strong></a> (Chandramouli, Badrish and Prasaad, Guna and Kossmann, Donald and Levandoski, Justin and Hunter, James and Barnett, Mike) [<em>SIGMOD '18</em>]</li>
                 </ul>
             </td>
         </tr>
@@ -147,6 +147,7 @@
             <td>Yalun Lin Hsu</td>
             <td>
                 <ul>
+                    <li><a href="https://doi.org/10.14778/3137765.3137777" rel="nofollow"><strong>State Management in Apache Flink®: Consistent Stateful Distributed Stream Processing</strong></a> (Carbone, Paris and Ewen, Stephan and F\'{o}ra, Gyula and Haridi, Seif and Richter, Stefan and Tzoumas, Kostas) [<em>VLDB '17</em>]</li>
                 </ul>
             </td>
         </tr>
