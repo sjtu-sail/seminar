@@ -126,7 +126,7 @@
         </tr>
         <tr>
             <td rowspan="3">2020-10-26</td>
-            <td rowspan="3">Storage</td>
+            <td>Key-Value Stores (Log-Structured Merge-Tree)</td>
             <td>Wanqiang Zhang</td>
             <td>
                 <ul>
@@ -136,10 +136,11 @@
             </td>
         </tr>
         <tr>
+            <td rowspan="2">Stream Processing</td>
             <td>Yuchen Cheng</td>
             <td>
                 <ul>
-                    <li><a href="https://doi.org/10.1145/3183713.3196898" rel="nofollow"><strong>FASTER: A Concurrent Key-Value Store with In-Place Updates</strong></a> (Chandramouli, Badrish and Prasaad, Guna and Kossmann, Donald and Levandoski, Justin and Hunter, James and Barnett, Mike) [<em>SIGMOD '18</em>]</li>
+                    <li><a href="https://doi.org/10.14778/3137765.3137770" rel="nofollow"><strong>Samza: stateful scalable stream processing at LinkedIn</strong></a> (Shadi A. Noghabi, Kartik Paramasivam, Yi Pan, Navina Ramesh, Jon Bringhurst, Indranil Gupta, and Roy H. Campbell) [<em>VLDB '17</em>]</li>
                 </ul>
             </td>
         </tr>
@@ -147,7 +148,8 @@
             <td>Yalun Lin Hsu</td>
             <td>
                 <ul>
-                    <li><a href="https://doi.org/10.14778/3137765.3137777" rel="nofollow"><strong>State Management in Apache Flink®: Consistent Stateful Distributed Stream Processing</strong></a> (Carbone, Paris and Ewen, Stephan and F\'{o}ra, Gyula and Haridi, Seif and Richter, Stefan and Tzoumas, Kostas) [<em>VLDB '17</em>]</li>
+                    <li><a href="https://doi.org/10.14778/3137765.3137777" rel="nofollow"><strong>Turbine: Facebook’s Service Management Platform
+for Stream Processing</strong></a> (Yuan Mei, Luwei Cheng, Vanish Talwar, Michael Y. Levin, Gabriela Jacques-Silva, Nikhil Simha, Anirban Banerjee, Brian Smith, Tim Williamson, Serhat Yilmaz, Weitao Chen, and Guoqiang Jerry Chen) [<em>ICDE '20</em>]</li>
                 </ul>
             </td>
         </tr>
