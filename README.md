@@ -185,7 +185,11 @@ for Stream Processing</strong></a> [<em>ICDE '20</em>]</li>
             <td>2020-11-23</td>
             <td>Stream Processing</td>
             <td>Yuchen Cheng</td>
-            <td></td>
+            <td>
+                <ul>
+                    <li><a href="https://arxiv.org/abs/2010.03035" rel="nofollow"><strong>Move Fast and Meet Deadlines: Fine-grained Real-time Stream Processing with Cameo</strong></a> [<em>NSDI '21</em>]</li>
+                </ul>
+            </td>
         </tr>
     </tbody>
 </table>
