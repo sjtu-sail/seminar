@@ -191,5 +191,27 @@ for Stream Processing</strong></a> [<em>ICDE '20</em>]</li>
                 </ul>
             </td>
         </tr>
+      <tr>
+            <td>2020-11-30</td>
+            <td>Serverless</td>
+            <td>Yalun Lin Hsu</td>
+            <td>
+                <ul>
+                    <li><a href="https://doi.org/10.14778/3407790.3407836" rel="nofollow"><strong>Optimizing Prediction Serving on Low-Latency Serverless Dataflow</strong></a></li>
+                </ul>
+            </td>
+        </tr>
+      <tr>
+            <td>2020-12-14</td>
+            <td>Serverless</td>
+            <td>Yalun Lin Hsu</td>
+            <td>
+                <ul>
+                    <li><a href="https://www.usenix.org/system/files/conference/atc18/atc18-klimovic-serverless.pdf" rel="nofollow"><strong>Understanding Ephemeral Storage for Serverless Analytics</strong></a> [<em>USENIX ATC '18</em>]</li>
+                  <li><a href="https://www.usenix.org/system/files/osdi18-klimovic.pdf" rel="nofollow"><strong>Pocket: Elastic Ephemeral Storage for Serverless Analytics</strong></a> [<em>OSDI '18</em>]</li>
+                </ul>
+            </td>
+        </tr>
     </tbody>
 </table>
+
