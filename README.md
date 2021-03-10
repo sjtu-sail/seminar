@@ -191,7 +191,7 @@ for Stream Processing</strong></a> [<em>ICDE '20</em>]</li>
                 </ul>
             </td>
         </tr>
-      <tr>
+        <tr>
             <td>2020-11-30</td>
             <td>Serverless</td>
             <td>Yalun Lin Hsu</td>
@@ -201,7 +201,7 @@ for Stream Processing</strong></a> [<em>ICDE '20</em>]</li>
                 </ul>
             </td>
         </tr>
-      <tr>
+        <tr>
             <td>2020-12-14</td>
             <td>Serverless</td>
             <td>Yalun Lin Hsu</td>
@@ -227,13 +227,23 @@ for Stream Processing</strong></a> [<em>ICDE '20</em>]</li>
         </tr>
     </thead>
     <tbody>
-      <tr>
+        <tr>
             <td>2021-03-03</td>
             <td>Microservice</td>
             <td>Xiaoran Wang</td>
             <td>
                 <ul>
                     <li><a href="https://www.usenix.org/conference/osdi20/presentation/qiu" rel="nofollow"><strong>FIRM: An Intelligent Fine-grained Resource Management Framework for SLO-Oriented Microservices</strong></a> [<em>OSDI '20</em>]</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>2021-03-10</td>
+            <td>Storage</td>
+            <td>Zhiyuan Wang</td>
+            <td>
+                <ul>
+                    <li><a href="https://doi.org/10.1145/3035918.3056101" rel="nofollow"><strong>Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases</strong></a> [<em>SIGMOD '17</em>]</li>
                 </ul>
             </td>
         </tr>
