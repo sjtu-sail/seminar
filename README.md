@@ -247,5 +247,35 @@ for Stream Processing</strong></a> [<em>ICDE '20</em>]</li>
                 </ul>
             </td>
         </tr>
+        <tr>
+            <td>2021-04-07</td>
+            <td>Resource Management</td>
+            <td>Haoyuan Hu</td>
+            <td>
+                <ul>
+                    <li><a href="https://www.usenix.org/conference/osdi20/presentation/tang" rel="nofollow"><strong>Twine: A Unified Cluster Management System for Shared Infrastructure</strong></a> [<em>OSDI '20</em>]</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>2021-04-14</td>
+            <td>Data Warehouse</td>
+            <td>Yufan Jiang</td>
+            <td>
+                <ul>
+                    <li><a href="https://doi.org/10.1145/2882903.2903741" rel="nofollow"><strong>The Snowﬂake Elastic Data Warehouse</strong></a> [<em>SIGMOD '16</em>]</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>2021-04-21</td>
+            <td>Storage</td>
+            <td>Yang Zhao</td>
+            <td>
+                <ul>
+                    <li><a href="https://dl.acm.org/doi/10.5555/1298455.1298485" rel="nofollow"><strong>Ceph: A Scalable, High-Performance Distributed File System</strong></a> [<em>OSDI '06</em>]</li>
+                </ul>
+            </td>
+        </tr>
     </tbody>
 </table>
