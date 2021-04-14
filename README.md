@@ -277,5 +277,15 @@ for Stream Processing</strong></a> [<em>ICDE '20</em>]</li>
                 </ul>
             </td>
         </tr>
+        <tr>
+            <td>2021-04-28</td>
+            <td>Distributed System</td>
+            <td>Jinke Liu</td>
+            <td>
+                <ul>
+                    <li><a href="https://www.usenix.org/conference/nsdi21/presentation/li-yilong" rel="nofollow"><strong>MilliSort and MilliQuery: Large-Scale Data-Intensive Computing in Milliseconds</strong></a> [<em>NSDI '21</em>]</li>
+                </ul>
+            </td>
+        </tr>        
     </tbody>
 </table>
