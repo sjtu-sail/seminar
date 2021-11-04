@@ -1,6 +1,6 @@
 # Seminar
 
-**Time:** Every Wednesday 15:00
+**Time:** Every Tuesday 14:00
 
 **Place:** Room 3201
 
@@ -289,3 +289,23 @@ for Stream Processing</strong></a> [<em>ICDE '20</em>]</li>
         </tr>        
     </tbody>
 </table>
+
+## Autumn 2021
+
+### Selected Papers
+
+
+- [Themis: Fair and Efficient GPU Cluster Scheduling](https://www.usenix.org/conference/nsdi20/presentation/mahajan), NSDI '20
+- [Blending Containers and Virtual Machines: A Study of Firecracker and gVisor](https://doi.org/10.1145/3381052.3381315), VEE '20
+- [Heterogeneity-Aware Cluster Scheduling Policies for Deep Learning Workloads](https://www.usenix.org/conference/osdi20/presentation/narayanan-deepak), OSDI '20
+- [Evolution of Development Priorities in Key-value Stores Serving Large-scale Applications: The RocksDB Experience](https://www.usenix.org/conference/fast21/presentation/dong), FAST '21
+- [Differentiated Key-Value Storage Management for Balanced I/O Performance](https://www.usenix.org/conference/atc21/presentation/li-yongkun), USENIX ATC '21
+- [Consistency and Completeness: Rethinking Distributed Stream Processing in Apache Kafka](https://doi.org/10.1145/3448016.3457556), SIGMOD '21 
+- [RAS: Continuously Optimized RegionWide Datacenter Resource Allocation](https://doi.org/10.1145/3477132.3483578), SOSP ’21
+- [Kangaroo: Caching Billions of Tiny Objects on Flash](https://doi.org/10.1145/3477132.3483568), SOSP ’21
+- [Good Things Come to Those Who Wait: Optimizing Job Waiting in the Cloud](https://doi.org/10.1145/3472883.3487007), SoCC '21
+- [Atoll: A Scalable Low-Latency Serverless Platform](https://doi.org/10.1145/3472883.3486981), SoCC '21
+
+| Date | Topic | Speaker | Paper |
+| - | - | - | - |
+| 2021-11-09 | Time Series Database | Hongyi Long | <ul><li><a href="https://www.vldb.org/pvldb/vol8/p1816-teller.pdf" rel="nofollow"><strong>Gorilla: A Fast, Scalable, In-Memory Time Series Database</strong></a> [<em>VLDB '15</em>]</li></ul> |
