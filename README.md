@@ -305,6 +305,15 @@ for Stream Processing</strong></a> [<em>ICDE '20</em>]</li>
 - [Kangaroo: Caching Billions of Tiny Objects on Flash](https://doi.org/10.1145/3477132.3483568), SOSP ’21
 - [Good Things Come to Those Who Wait: Optimizing Job Waiting in the Cloud](https://doi.org/10.1145/3472883.3487007), SoCC '21
 - [Atoll: A Scalable Low-Latency Serverless Platform](https://doi.org/10.1145/3472883.3486981), SoCC '21
+- [Ownership: A Distributed Futures System for Fine-Grained Tasks](https://www.usenix.org/system/files/nsdi21-wang.pdf), NSDI '21
+- [Ship Compute or Ship Data? Why Not Both?](https://www.usenix.org/system/files/nsdi21-you.pdf), NSDI '21
+- [Automatically Detecting and Fixing Concurrency Bugs in Go Software Systems](https://www.researchgate.net/profile/Boqin-Qin-2/publication/350372937_Automatically_Detecting_and_Fixing_Concurrency_Bugs_in_Go_Software_Systems/links/605c2b15299bf17367687eef/Automatically-Detecting-and-Fixing-Concurrency-Bugs-in-Go-Software-Systems.pdf), ASPLOS '21
+- [Unikraft: Fast, Specialized Unikernels the Easy Way](https://dl.acm.org/doi/pdf/10.1145/3447786.3456248), EuroSys '21
+- [Tell me when you are sleepy and what may wake you up!](https://dl.acm.org/doi/10.1145/3472883.3487013), SoCC '21
+- [Mu: An Efficient, Fair and Responsive Serverless Framework for Resource-Constrained Edge Clouds](https://dl.acm.org/doi/pdf/10.1145/3472883.3487014), SoCC '21
+- [SHOWAR: Right-Sizing And Efficient Scheduling of Microservices](https://dl.acm.org/doi/10.1145/3472883.3486999), SoCC '21
+- [Mind the Gap: Broken Promises of CPU Reservations in Containerized Multi-tenant Clouds](https://dl.acm.org/doi/10.1145/3472883.3486997), SoCC '21
+- [PaSh: Light-touch Data-Parallel Shell Processing](https://dl.acm.org/doi/pdf/10.1145/3447786.3456228), EuroSys '21
 
 | Date | Topic | Speaker | Paper |
 | - | - | - | - |
