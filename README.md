@@ -2,7 +2,114 @@
 
 **Time:** Every Tuesday 14:00
 
-**Place:** Room 3201
+**Place:** Room 3201, School of Software
+
+## Autumn 2021
+
+### Selected Papers
+
+- [Themis: Fair and Efficient GPU Cluster Scheduling](https://www.usenix.org/conference/nsdi20/presentation/mahajan), NSDI '20
+- [Blending Containers and Virtual Machines: A Study of Firecracker and gVisor](https://doi.org/10.1145/3381052.3381315), VEE '20
+- [Heterogeneity-Aware Cluster Scheduling Policies for Deep Learning Workloads](https://www.usenix.org/conference/osdi20/presentation/narayanan-deepak), OSDI '20
+- ~~[Evolution of Development Priorities in Key-value Stores Serving Large-scale Applications: The RocksDB Experience](https://www.usenix.org/conference/fast21/presentation/dong), FAST '21~~
+- [Differentiated Key-Value Storage Management for Balanced I/O Performance](https://www.usenix.org/conference/atc21/presentation/li-yongkun), USENIX ATC '21
+- [Consistency and Completeness: Rethinking Distributed Stream Processing in Apache Kafka](https://doi.org/10.1145/3448016.3457556), SIGMOD '21 
+- ~~[RAS: Continuously Optimized RegionWide Datacenter Resource Allocation](https://doi.org/10.1145/3477132.3483578), SOSP ’21~~
+- [Kangaroo: Caching Billions of Tiny Objects on Flash](https://doi.org/10.1145/3477132.3483568), SOSP ’21
+- [Good Things Come to Those Who Wait: Optimizing Job Waiting in the Cloud](https://doi.org/10.1145/3472883.3487007), SoCC '21
+- [Atoll: A Scalable Low-Latency Serverless Platform](https://doi.org/10.1145/3472883.3486981), SoCC '21
+- [Ownership: A Distributed Futures System for Fine-Grained Tasks](https://www.usenix.org/system/files/nsdi21-wang.pdf), NSDI '21
+- [Ship Compute or Ship Data? Why Not Both?](https://www.usenix.org/system/files/nsdi21-you.pdf), NSDI '21
+- [Automatically Detecting and Fixing Concurrency Bugs in Go Software Systems](https://www.researchgate.net/profile/Boqin-Qin-2/publication/350372937_Automatically_Detecting_and_Fixing_Concurrency_Bugs_in_Go_Software_Systems/links/605c2b15299bf17367687eef/Automatically-Detecting-and-Fixing-Concurrency-Bugs-in-Go-Software-Systems.pdf), ASPLOS '21
+- [Unikraft: Fast, Specialized Unikernels the Easy Way](https://dl.acm.org/doi/pdf/10.1145/3447786.3456248), EuroSys '21
+- [Tell me when you are sleepy and what may wake you up!](https://dl.acm.org/doi/10.1145/3472883.3487013), SoCC '21
+- [Mu: An Efficient, Fair and Responsive Serverless Framework for Resource-Constrained Edge Clouds](https://dl.acm.org/doi/pdf/10.1145/3472883.3487014), SoCC '21
+- [SHOWAR: Right-Sizing And Efficient Scheduling of Microservices](https://dl.acm.org/doi/10.1145/3472883.3486999), SoCC '21
+- ~~[Mind the Gap: Broken Promises of CPU Reservations in Containerized Multi-tenant Clouds](https://dl.acm.org/doi/10.1145/3472883.3486997), SoCC '21~~
+- [PaSh: Light-touch Data-Parallel Shell Processing](https://dl.acm.org/doi/pdf/10.1145/3447786.3456228), EuroSys '21
+
+| Date | Topic | Speaker | Papers |
+| - | - | - | - |
+| 2021-11-09 | Time Series Database | Hongyi Long | [**Gorilla: A Fast, Scalable, In-Memory Time Series Database**](https://www.vldb.org/pvldb/vol8/p1816-teller.pdf) [*VLDB '15*] |
+| 2021-11-23 | Resource Management | Sho Itami | [**RAS: Continuously Optimized RegionWide Datacenter Resource Allocation**](https://doi.org/10.1145/3477132.3483578) [*SOSP '21*] |
+| 2021-11-30 | Storage | Zhao Jiang | [**Evolution of Development Priorities in Key-value Stores Serving Large-scale Applications: The RocksDB Experience</**](https://www.usenix.org/conference/fast21/presentation/dong) [*FAST '21*] |
+| 2021-12-07 | Scheduling | Haoyu Wang | [**Mind the Gap: Broken Promises of CPU Reservations in Containerized Multi-tenant Clouds**](https://dl.acm.org/doi/10.1145/3472883.3486997) [*SoCC '21*] |
+| 2021-12-14 | | Chao Li | |
+
+## Spring 2021
+
+<table>
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>Topic</th>
+            <th>Speaker</th>
+            <th>Papers</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>2021-03-03</td>
+            <td>Microservice</td>
+            <td>Xiaoran Wang</td>
+            <td>
+                <ul>
+                    <li><a href="https://www.usenix.org/conference/osdi20/presentation/qiu" rel="nofollow"><strong>FIRM: An Intelligent Fine-grained Resource Management Framework for SLO-Oriented Microservices</strong></a> [<em>OSDI '20</em>]</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>2021-03-10</td>
+            <td>Storage</td>
+            <td>Zhiyuan Wang</td>
+            <td>
+                <ul>
+                    <li><a href="https://doi.org/10.1145/3035918.3056101" rel="nofollow"><strong>Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases</strong></a> [<em>SIGMOD '17</em>]</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>2021-04-07</td>
+            <td>Resource Management</td>
+            <td>Haoyuan Hu</td>
+            <td>
+                <ul>
+                    <li><a href="https://www.usenix.org/conference/osdi20/presentation/tang" rel="nofollow"><strong>Twine: A Unified Cluster Management System for Shared Infrastructure</strong></a> [<em>OSDI '20</em>]</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>2021-04-14</td>
+            <td>Data Warehouse</td>
+            <td>Yufan Jiang</td>
+            <td>
+                <ul>
+                    <li><a href="https://doi.org/10.1145/2882903.2903741" rel="nofollow"><strong>The Snowﬂake Elastic Data Warehouse</strong></a> [<em>SIGMOD '16</em>]</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>2021-04-21</td>
+            <td>Storage</td>
+            <td>Yang Zhao</td>
+            <td>
+                <ul>
+                    <li><a href="https://dl.acm.org/doi/10.5555/1298455.1298485" rel="nofollow"><strong>Ceph: A Scalable, High-Performance Distributed File System</strong></a> [<em>OSDI '06</em>]</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>2021-04-28</td>
+            <td>Distributed System</td>
+            <td>Jinke Liu</td>
+            <td>
+                <ul>
+                    <li><a href="https://www.usenix.org/conference/nsdi21/presentation/li-yilong" rel="nofollow"><strong>MilliSort and MilliQuery: Large-Scale Data-Intensive Computing in Milliseconds</strong></a> [<em>NSDI '21</em>]</li>
+                </ul>
+            </td>
+        </tr>        
+    </tbody>
+</table>
 
 ## Autumn 2020
 
@@ -214,109 +321,3 @@ for Stream Processing</strong></a> [<em>ICDE '20</em>]</li>
         </tr>
     </tbody>
 </table>
-
-## Spring 2021
-
-<table>
-    <thead>
-        <tr>
-            <th>Date</th>
-            <th>Topic</th>
-            <th>Speaker</th>
-            <th>Papers</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>2021-03-03</td>
-            <td>Microservice</td>
-            <td>Xiaoran Wang</td>
-            <td>
-                <ul>
-                    <li><a href="https://www.usenix.org/conference/osdi20/presentation/qiu" rel="nofollow"><strong>FIRM: An Intelligent Fine-grained Resource Management Framework for SLO-Oriented Microservices</strong></a> [<em>OSDI '20</em>]</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td>2021-03-10</td>
-            <td>Storage</td>
-            <td>Zhiyuan Wang</td>
-            <td>
-                <ul>
-                    <li><a href="https://doi.org/10.1145/3035918.3056101" rel="nofollow"><strong>Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases</strong></a> [<em>SIGMOD '17</em>]</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td>2021-04-07</td>
-            <td>Resource Management</td>
-            <td>Haoyuan Hu</td>
-            <td>
-                <ul>
-                    <li><a href="https://www.usenix.org/conference/osdi20/presentation/tang" rel="nofollow"><strong>Twine: A Unified Cluster Management System for Shared Infrastructure</strong></a> [<em>OSDI '20</em>]</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td>2021-04-14</td>
-            <td>Data Warehouse</td>
-            <td>Yufan Jiang</td>
-            <td>
-                <ul>
-                    <li><a href="https://doi.org/10.1145/2882903.2903741" rel="nofollow"><strong>The Snowﬂake Elastic Data Warehouse</strong></a> [<em>SIGMOD '16</em>]</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td>2021-04-21</td>
-            <td>Storage</td>
-            <td>Yang Zhao</td>
-            <td>
-                <ul>
-                    <li><a href="https://dl.acm.org/doi/10.5555/1298455.1298485" rel="nofollow"><strong>Ceph: A Scalable, High-Performance Distributed File System</strong></a> [<em>OSDI '06</em>]</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td>2021-04-28</td>
-            <td>Distributed System</td>
-            <td>Jinke Liu</td>
-            <td>
-                <ul>
-                    <li><a href="https://www.usenix.org/conference/nsdi21/presentation/li-yilong" rel="nofollow"><strong>MilliSort and MilliQuery: Large-Scale Data-Intensive Computing in Milliseconds</strong></a> [<em>NSDI '21</em>]</li>
-                </ul>
-            </td>
-        </tr>        
-    </tbody>
-</table>
-
-## Autumn 2021
-
-### Selected Papers
-
-
-- [Themis: Fair and Efficient GPU Cluster Scheduling](https://www.usenix.org/conference/nsdi20/presentation/mahajan), NSDI '20
-- [Blending Containers and Virtual Machines: A Study of Firecracker and gVisor](https://doi.org/10.1145/3381052.3381315), VEE '20
-- [Heterogeneity-Aware Cluster Scheduling Policies for Deep Learning Workloads](https://www.usenix.org/conference/osdi20/presentation/narayanan-deepak), OSDI '20
-- ~~[Evolution of Development Priorities in Key-value Stores Serving Large-scale Applications: The RocksDB Experience](https://www.usenix.org/conference/fast21/presentation/dong), FAST '21~~
-- [Differentiated Key-Value Storage Management for Balanced I/O Performance](https://www.usenix.org/conference/atc21/presentation/li-yongkun), USENIX ATC '21
-- [Consistency and Completeness: Rethinking Distributed Stream Processing in Apache Kafka](https://doi.org/10.1145/3448016.3457556), SIGMOD '21 
-- ~~[RAS: Continuously Optimized RegionWide Datacenter Resource Allocation](https://doi.org/10.1145/3477132.3483578), SOSP ’21~~
-- [Kangaroo: Caching Billions of Tiny Objects on Flash](https://doi.org/10.1145/3477132.3483568), SOSP ’21
-- [Good Things Come to Those Who Wait: Optimizing Job Waiting in the Cloud](https://doi.org/10.1145/3472883.3487007), SoCC '21
-- [Atoll: A Scalable Low-Latency Serverless Platform](https://doi.org/10.1145/3472883.3486981), SoCC '21
-- [Ownership: A Distributed Futures System for Fine-Grained Tasks](https://www.usenix.org/system/files/nsdi21-wang.pdf), NSDI '21
-- [Ship Compute or Ship Data? Why Not Both?](https://www.usenix.org/system/files/nsdi21-you.pdf), NSDI '21
-- [Automatically Detecting and Fixing Concurrency Bugs in Go Software Systems](https://www.researchgate.net/profile/Boqin-Qin-2/publication/350372937_Automatically_Detecting_and_Fixing_Concurrency_Bugs_in_Go_Software_Systems/links/605c2b15299bf17367687eef/Automatically-Detecting-and-Fixing-Concurrency-Bugs-in-Go-Software-Systems.pdf), ASPLOS '21
-- [Unikraft: Fast, Specialized Unikernels the Easy Way](https://dl.acm.org/doi/pdf/10.1145/3447786.3456248), EuroSys '21
-- [Tell me when you are sleepy and what may wake you up!](https://dl.acm.org/doi/10.1145/3472883.3487013), SoCC '21
-- [Mu: An Efficient, Fair and Responsive Serverless Framework for Resource-Constrained Edge Clouds](https://dl.acm.org/doi/pdf/10.1145/3472883.3487014), SoCC '21
-- [SHOWAR: Right-Sizing And Efficient Scheduling of Microservices](https://dl.acm.org/doi/10.1145/3472883.3486999), SoCC '21
-- [Mind the Gap: Broken Promises of CPU Reservations in Containerized Multi-tenant Clouds](https://dl.acm.org/doi/10.1145/3472883.3486997), SoCC '21
-- [PaSh: Light-touch Data-Parallel Shell Processing](https://dl.acm.org/doi/pdf/10.1145/3447786.3456228), EuroSys '21
-
-| Date | Topic | Speaker | Papers |
-| - | - | - | - |
-| 2021-11-09 | Time Series Database | Hongyi Long | <ul><li><a href="https://www.vldb.org/pvldb/vol8/p1816-teller.pdf" rel="nofollow"><strong>Gorilla: A Fast, Scalable, In-Memory Time Series Database</strong></a> [<em>VLDB '15</em>]</li></ul> |
-| 2021-11-23 | Resource Management | Sho Itami | <ul><li><a href="https://doi.org/10.1145/3477132.3483578" rel="nofollow"><strong>RAS: Continuously Optimized RegionWide Datacenter Resource Allocation</strong></a> [<em>SOSP '21</em>]</li></ul> |
-| 2021-11-30 | Storage | Zhao Jiang | <ul><li><a href="https://www.usenix.org/conference/fast21/presentation/dong" rel="nofollow"><strong>Evolution of Development Priorities in Key-value Stores Serving Large-scale Applications: The RocksDB Experience</strong></a> [<em>FAST '21</em>]</li></ul> |
