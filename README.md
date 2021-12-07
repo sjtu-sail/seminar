@@ -32,9 +32,9 @@
 | - | - | - | - |
 | 2021-11-09 | Time Series Database | Hongyi Long | [**Gorilla: A Fast, Scalable, In-Memory Time Series Database**](https://www.vldb.org/pvldb/vol8/p1816-teller.pdf) [*VLDB '15*] |
 | 2021-11-23 | Resource Management | Sho Itami | [**RAS: Continuously Optimized RegionWide Datacenter Resource Allocation**](https://doi.org/10.1145/3477132.3483578) [*SOSP '21*] |
-| 2021-11-30 | Storage | Zhao Jiang | [**Evolution of Development Priorities in Key-value Stores Serving Large-scale Applications: The RocksDB Experience</**](https://www.usenix.org/conference/fast21/presentation/dong) [*FAST '21*] |
+| 2021-11-30 | Storage | Zhao Jiang | [**Evolution of Development Priorities in Key-value Stores Serving Large-scale Applications: The RocksDB Experience**](https://www.usenix.org/conference/fast21/presentation/dong) [*FAST '21*] |
 | 2021-12-07 | Scheduling | Haoyu Wang | [**Mind the Gap: Broken Promises of CPU Reservations in Containerized Multi-tenant Clouds**](https://dl.acm.org/doi/10.1145/3472883.3486997) [*SoCC '21*] |
-| 2021-12-14 | | Chao Li | |
+| 2021-12-14 | Resource Management | Chao Li | [**SmartHarvest: Harvesting Idle CPUs Safely and Efficiently in the Cloud**](https://doi.org/10.1145/3447786.3456225) [*EuroSys '21*] |
 
 ## Spring 2021
 
