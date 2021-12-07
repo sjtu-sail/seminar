@@ -35,6 +35,7 @@
 | 2021-11-30 | Storage | Zhao Jiang | [**Evolution of Development Priorities in Key-value Stores Serving Large-scale Applications: The RocksDB Experience**](https://www.usenix.org/conference/fast21/presentation/dong) [*FAST '21*] |
 | 2021-12-07 | Scheduling | Haoyu Wang | [**Mind the Gap: Broken Promises of CPU Reservations in Containerized Multi-tenant Clouds**](https://dl.acm.org/doi/10.1145/3472883.3486997) [*SoCC '21*] |
 | 2021-12-14 | Resource Management | Chao Li | [**SmartHarvest: Harvesting Idle CPUs Safely and Efficiently in the Cloud**](https://doi.org/10.1145/3447786.3456225) [*EuroSys '21*] |
+| | Cache |  Jie Lian | [**Segcache: a memory-efficient and scalable in-memory key-value cache for small objects**](https://www.usenix.org/conference/nsdi21/presentation/yang-juncheng) [*NSDI '21*]
 
 ## Spring 2021
 
